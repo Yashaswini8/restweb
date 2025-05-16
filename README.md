@@ -1,4 +1,6 @@
 # Ex.07 Restaurant Website
+## Name:Yashaswini.S
+## Register Number:212224220123
 ## Date:16/05/2025
 
 ## AIM:
